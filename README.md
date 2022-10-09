@@ -1,5 +1,13 @@
 # GraphQL-Server-Node.js-Express
 
+### Let's Start
+
+##### Install the dependencies
+ npm install
+
+##### Start the server
+ node server.js
+
 Creating A GraphQL Server With Node.js And Express
 
 1. Installing the required dependencies
