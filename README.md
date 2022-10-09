@@ -8,7 +8,7 @@
 ##### Start the server
  node server.js
 
-Creating A GraphQL Server With Node.js And Express
+###### cSreating A GraphQL Server With Node.js And Express
 
 1. Installing the required dependencies
    Before getting started, there are a few things you need in addition to the express package. You'll need to install express-graphql, an HTTP middleware that will be leveraged by Express to rapidly create your API and the official graphql implementation.
